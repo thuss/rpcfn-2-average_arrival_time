@@ -2,7 +2,7 @@
 
 My submission for Ruby Challenge #2: Average Flight Arrival Time
 
-http://github.com/thuss/rpcfn-2-average_arrival_time
+http://rubylearning.com/blog/2009/10/08/rpcfn-average-arrival-time-for-a-flight-2/
 
 == Features
 
