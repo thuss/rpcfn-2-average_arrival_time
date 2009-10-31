@@ -1,0 +1,18 @@
+= shift_subtitle
+
+My submission for Ruby Challenge #2: Average Flight Arrival Time
+
+http://github.com/thuss/rpcfn-2-average_arrival_time
+
+== Features
+
+* 100% RSpec[http://rspec.info/] test coverage 
+* Works in both Ruby 1.8 and 1.9
+
+== Explanation
+
+I implemented under the assumption that the arrival times passed to the method are not sorted in any way (such as ['10:00am', '2:00pm', '10:30am']) so that my algorithm has to infer if it’s a night flight or a day flight based on the proximity of the times. If it’s a night flight then it coerces the AM times to the next day. 
+
+== Copyright
+
+Copyright (c) 2009 Todd Huss. See LICENSE for details.
