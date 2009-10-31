@@ -1,4 +1,4 @@
-= shift_subtitle
+= rpcfn-2-average_arrival_time
 
 My submission for Ruby Challenge #2: Average Flight Arrival Time
 
